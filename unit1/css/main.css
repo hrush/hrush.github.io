@@ -1,14 +1,15 @@
 body{
 	background-color: CadetBlue;
-	background: url(http://o.aolcdn.com/smp/is/submissions/uploads/19852/52546417b0220$!900x.JPG);
-	background-size: cover;
+	text-align: center;
+	color: white;
 }
 
 hr {
-	width: 200px;
+	width: 100px;
 }
 
-h1 {
+h1, h2 {
+
 	color: white;
 	text-align: center;
 	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
@@ -19,22 +20,34 @@ h1 {
 	line-height: 26.4px;
 }
 
-h3 {
+h3, h4 {
 	color: white;
 	text-align: center;
 	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 15.4px;
 }
 
+ul {
+	color: white;
+	text-align: center;
+	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+	list-style-type: none;
+}
+
 p {
 	color: white;
 	text-align: center;
 	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif;
-	font-size: 14px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
